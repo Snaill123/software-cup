@@ -1,0 +1,7 @@
+tesseract支持多进程
+
+截图：
+convert src.jpg -crop 100x80+50+30 dest.jpg
+
+图片背景透明：
+Word处理处理方法
