@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program-params>
+	<param name="image_dir"></param>
+	<param name="preprocessed_image_dir"></param>
+	<param name="excel_dir"></param>
+</program-params>

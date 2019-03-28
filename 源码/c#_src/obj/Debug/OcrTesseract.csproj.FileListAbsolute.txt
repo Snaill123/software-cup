@@ -1,0 +1,54 @@
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\bin\Debug\OcrTesseract.exe.config
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\bin\Debug\OcrTesseract.exe
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\bin\Debug\OcrTesseract.pdb
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.csprojAssemblyReference.cache
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.Form1.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.Properties.Resources.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.TaskListControl.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.csproj.GenerateResource.cache
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.csproj.CoreCompileInputs.cache
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.exe
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.pdb
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OCRTesseract.LeftMenuControl.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OCRTesseract.TaskDetailControl.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.TestForm.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.TaskItemControl.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.csproj.ResolveComReference.cache
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.UserControl1.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.NewTaskForm.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\bin\Debug\OcrTesseract.exe.manifest
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\bin\Debug\OcrTesseract.application
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.exe.manifest
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.application
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.CompletedTaskItemControl.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.CompletedTaskListControl.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.DeletedTaskItemControl.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.DeletedTaskListControl.resources
+E:\Visual Studio\source\repos\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.SystemSettingForm.resources
+E:\resp\OcrTesseract\OcrTesseract\bin\Debug\OcrTesseract.exe.config
+E:\resp\OcrTesseract\OcrTesseract\bin\Debug\OcrTesseract.exe.manifest
+E:\resp\OcrTesseract\OcrTesseract\bin\Debug\OcrTesseract.application
+E:\resp\OcrTesseract\OcrTesseract\bin\Debug\OcrTesseract.exe
+E:\resp\OcrTesseract\OcrTesseract\bin\Debug\OcrTesseract.pdb
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.csproj.ResolveComReference.cache
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.DeletedTaskItemControl.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.DeletedTaskListControl.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.Form1.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.NewTaskForm.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.Properties.Resources.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.LeftMenuControl.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.SystemSettingForm.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.TaskDetailControl.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.CompletedTaskItemControl.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.TaskItemControl.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.CompletedTaskListControl.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.TaskListControl.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.TestForm.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.UserControl1.resources
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.csproj.GenerateResource.cache
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.csproj.CoreCompileInputs.cache
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.exe.manifest
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.application
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.exe
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.pdb
+E:\resp\OcrTesseract\OcrTesseract\obj\Debug\OcrTesseract.csprojAssemblyReference.cache

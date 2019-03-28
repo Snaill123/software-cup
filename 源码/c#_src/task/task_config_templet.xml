@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<task>
+	<task-path></task-path>
+	<name></name>
+	<picture-path></picture-path>
+	<picture-count></picture-count>
+	<picture-finished-count></picture-finished-count>
+	<progress></progress>
+	<runtime-length></runtime-length>
+	<completion-rate></completion-rate>
+	<status></status>
+	<create-time></create-time>
+	<result-excel></result-excel>
+</task>

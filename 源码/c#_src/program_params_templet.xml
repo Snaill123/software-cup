@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program-params>
+	<param name="image_dir"></param><!-- 图片位置 -->
+	<param name="preprocessed_image_dir"></param><!-- 预处理图片存放位置-->
+	<param name="excel_dir"></param><!-- 识别结果保存excel文件位置 -->
+</program-params>
